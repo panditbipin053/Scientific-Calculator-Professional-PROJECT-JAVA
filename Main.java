@@ -77,7 +77,6 @@ public class Main {
             default:
                 System.out.println("Invalid Choice!");
         }
-
         sc.close();
     }
 }
