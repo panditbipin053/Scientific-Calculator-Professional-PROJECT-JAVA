@@ -67,11 +67,9 @@ public class Main {
             case 2:
                 System.out.println("Result: " + calc.subtract(num1, num2));
                 break;
-
             case 3:
                 System.out.println("Result: " + calc.multiply(num1, num2));
                 break;
-
             case 4:
                 System.out.println("Result: " + calc.divide(num1, num2));
                 break;
